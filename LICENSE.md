@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright © 2015 Linda Lim. All Rights Reserved.
+Copyright © 2015 Building Castles in the Cloud. All Rights Reserved.
 
 No posts, images, videos, and audio clips are to be copied and distributed without the authors' or copyright holders' permission. All other applications are covered by the BSD 3-Clause License.
 
